@@ -1,7 +1,7 @@
 # 🧠 AI & ML Portfolio by Ragiri Himadeep
 
-![GitHub followers](https://img.shields.io/github/followers/HimadeepRagiri?style=social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ragiri-himadeep-608647291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIM%2FBaFKGR7qzql2yghYgcQ%3D%3D)
- ![GitHub stars](https://img.shields.io/github/stars/HimadeepRagiri?affiliations=OWNER&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/HimadeepRagiri?style=social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ragiri-himadeep-608647291/) ![GitHub Stars](https://img.shields.io/github/stars/HimadeepRagiri?affiliations=OWNER&style=social)
+
 
 ### 🚀 Welcome to My AI & ML Portfolio
 
