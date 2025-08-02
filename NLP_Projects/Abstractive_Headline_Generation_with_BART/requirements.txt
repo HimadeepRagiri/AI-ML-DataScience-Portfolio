@@ -1,9 +1,0 @@
-datasets
-torch
-transformers
-peft
-numpy
-matplotlib
-pandas
-seaborn
-gradio
