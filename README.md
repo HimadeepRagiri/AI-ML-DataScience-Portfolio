@@ -1,4 +1,4 @@
-# ML and DL Projects Portfolio
+# AI-ML-Portfolio
 
 Welcome to my ML and DL Projects repository! This repository is my personal portfolio and a playground for exploring the diverse world of Artificial Intelligence. Here, I experiment with innovative ideas, implement cutting-edge algorithms, and build real-world applications using Machine Learning, Deep Learning, and Natural Language Processing techniques. Each project reflects my passion for technology, my commitment to solving complex problems, and my continuous journey of learning and growth.
 
