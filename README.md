@@ -23,7 +23,7 @@ Every project here is designed not just to demonstrate skill — but to solve re
 5. [📝 Natural Language Processing (NLP) Projects](#-natural-language-processing-nlp-projects)
 6. [🧰 Technologies & Skills](#-technologies--skills)
 7. [🏆 Certifications & Achievements](#-certifications--achievements)
-8. [🗺️ Future Goals](#future-goals)
+8. [🗺️ Future Goals](#-future-goals)
 9. [📬 Let’s Connect](#-lets-connect)
 
 ---
