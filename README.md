@@ -202,6 +202,6 @@ I’m actively seeking **full-time roles** and **internships** in **AI/ML Engine
 - 📧 **Email**: [himadeepragiri@gmail.com](mailto:himadeepragiri@gmail.com)
 - 🔗 **LinkedIn**: [Ragiri Himadeep](https://www.linkedin.com/in/ragiri-himadeep-608647291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B01EqnU%2BJTwWXWPd%2BSS2CAw%3D%3D)
 - 🐙 **GitHub**: [https://github.com/HimadeepRagiri](https://github.com/HimadeepRagiri)
-- 🌐 **Portfolio Website**: [https://ragiri-himadeep.web.app/]
+- 🌐 **Portfolio Website**: https://ragiri-himadeep.web.app/
 
 ---
