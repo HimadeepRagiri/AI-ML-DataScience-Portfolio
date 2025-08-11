@@ -57,7 +57,7 @@ These projects showcase my ability to build scalable, production-grade AI and Da
 > **ETL + Sentiment Analytics + Dashboard**  
 > A production-grade pipeline using **Apache Airflow**, **Spark**, **Firebase**, and **Streamlit**. Ingests, analyzes, and visualizes e-commerce review sentiments in real time. Fully containerized with **Docker**.  
 > *Impact*: Delivers actionable insights for e-commerce platforms with real-time dashboards.  
-> ![Status](https://img.shields.io/badge/Status-Live%20Demo-orange)
+> ![Status](https://img.shields.io/badge/Status-Demo-orange)
 
 ---
 
