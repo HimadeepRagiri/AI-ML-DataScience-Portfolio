@@ -16,15 +16,15 @@ Every project here is designed not just to demonstrate skill — but to solve re
 
 ## 📌 Table of Contents
 
-1. [🙋‍♂️ About Me](#about-me)
-2. [🚀 Production-Ready AI Systems](#production-ready-ai-systems)
-3. [📊 Machine Learning Projects](#machine-learning-projects)
-4. [🧠 Deep Learning Projects](#deep-learning-projects)
-5. [📝 Natural Language Processing (NLP) Projects](#natural-language-processing-nlp-projects)
-6. [🧰 Technologies & Skills](#technologies--skills)
-7. [🏆 Certifications & Achievements](#certifications--achievements)
-8. [🗺️ Future Goals](#future-goals)
-9. [📬 Let’s Connect](#lets-connect)
+1. [🙋‍♂️ About Me](#-about-me)
+2. [🚀 Production-Ready AI Systems](#-production-ready-ai-systems)
+3. [📊 Machine Learning Projects](#-machine-learning-projects)
+4. [🧠 Deep Learning Projects](#-deep-learning-projects)
+5. [📝 Natural Language Processing (NLP) Projects](#-natural-language-processing-nlp-projects)
+6. [🧰 Technologies & Skills](#-technologies--skills)
+7. [🏆 Certifications & Achievements](#-certifications--achievements)
+8. [🗺️ Future Goals](#-future-goals)
+9. [📬 Let’s Connect](#-lets-connect)
 
 ---
 
