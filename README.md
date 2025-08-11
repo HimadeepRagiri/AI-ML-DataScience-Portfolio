@@ -2,9 +2,9 @@
 
 ## 🚀 Welcome to My AI/ML & Data Science Portfolio
 
-I’m **Ragiri Himadeep**, a self-taught **AI/ML Engineer** and **Data Scientist** with a **BBA – Business Analytics** degree. Despite not holding a traditional Computer Science degree, I have rigorously mastered **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **MLOps** through countless hours of **hands-on practice**, **online courses**, and **real-world projects**.
+I’m **Ragiri Himadeep**, a self-taught **AI/ML Engineer** and **Data Scientist** with a **BBA – Business Analytics** degree. Despite not holding a traditional Computer Science degree, I have rigorously mastered **Artificial Intelligence**, **Generative AI** **Machine Learning**, **Data Science**, and **MLOps** through countless hours of **hands-on practice**, **online courses**, and **real-world projects**.
 
-Driven by relentless curiosity and ambition, I’ve built **production-ready, end-to-end systems** across domains like **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Data Science**, and **Cloud-based MLOps**. My portfolio reflects:
+Driven by relentless curiosity and ambition, I’ve built **production-ready, end-to-end systems** across domains like **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Data Science**, **Generative AI** and **Cloud-based MLOps**. My portfolio reflects:
 
 - Practical expertise,
 - Industry-level implementation,
