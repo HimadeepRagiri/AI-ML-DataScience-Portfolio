@@ -8,7 +8,7 @@ Driven by relentless curiosity and ambition, I’ve built **production-ready, en
 
 ---
 
-[View My Resume](https://ragiri-himadeep.web.app/Resume.pdf){: .btn }
+[View My Resume](https://ragiri-himadeep.web.app/Resume.pdf)
 
 ---
 
