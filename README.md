@@ -8,7 +8,8 @@ Driven by relentless curiosity and ambition, I’ve built **production-ready, en
 
 ---
 
-[View My Resume](https://ragiri-himadeep.web.app/Resume.pdf)
+## 📄 My Resume
+[**📄 View My Resume**](https://ragiri-himadeep.web.app/Resume.pdf)
 
 ---
 
