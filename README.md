@@ -209,7 +209,7 @@ These projects showcase my expertise in advanced NLP techniques, transformers, a
 I’m actively seeking **full-time roles** and **internships** in **AI/ML Engineering** and **Data Science**. My projects demonstrate my ability to deliver production-ready AI and Data Science solutions, and I’m excited to contribute to innovative teams. Reach out to me:
 
 - 📧 **Email**: [himadeepragiri@gmail.com](mailto:himadeepragiri@gmail.com)
-- 🔗 **LinkedIn**: [Himadeep Ragiri](https://www.linkedin.com/in/ragiri-himadeep-608647291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B01EqnU%2BJTwWXWPd%2BSS2CAw%3D%3D)
+- 🔗 **LinkedIn**: [Himadeep Ragiri](https://www.linkedin.com/in/himadeep-ragiri-608647291/)
 - 🐙 **GitHub**: [https://github.com/HimadeepRagiri](https://github.com/HimadeepRagiri)
 - 🌐 **Portfolio Website**: https://ragiri-himadeep.web.app/
 
